@@ -447,7 +447,7 @@ public class VehicleControl : MonoBehaviour
 
 
        // if (!carSetting.automaticGear && activeControl)
-        x{
+        {
             if (Input.GetKeyDown("page up"))
             {
                 ShiftUp();
